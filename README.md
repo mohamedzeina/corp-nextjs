@@ -5,7 +5,6 @@ Simple application done with NextJS and TailWind.css. Simple navigation with a n
 First, clone the repo to your local machine:
 ```
 git clone https://github.com/mohamedzeina/corp-nextjs.git
-
 ```
 
 Then, open a terminal in the local repo and run the development server:
