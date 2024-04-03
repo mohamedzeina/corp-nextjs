@@ -1,5 +1,5 @@
 ## Description
-Simple application done with NextJS and TailWind.css. Simple navigation with a navbar is provided to visit different pages.
+Corp is a simple application done with NextJS and TailWind.css. Simple navigation with a navbar is provided to visit different pages.
 
 ## How To Run Locally
 First, clone the repo to your local machine:
