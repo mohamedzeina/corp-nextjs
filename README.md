@@ -6,7 +6,10 @@ First, clone the repo to your local machine:
 ```
 git clone https://github.com/mohamedzeina/corp-nextjs.git
 ```
-
+Then, open up a terminal in the project's directory and install next by running the following command:
+```
+npm install next
+```
 Then, open a terminal in the local repo and run the development server:
 
 ```bash
