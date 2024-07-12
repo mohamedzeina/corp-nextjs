@@ -6,11 +6,15 @@ First, clone the repo to your local machine:
 ```
 git clone https://github.com/mohamedzeina/corp-nextjs.git
 ```
-Then, open up a terminal in the project's directory and install next by running the following command:
+Then move into the project's directory:
 ```
-npm install next
+cd corp-nextjs
 ```
-Then, open a terminal in the local repo and run the development server:
+Then, install dependencies by running the following command:
+```
+npm install 
+```
+Then, run the development server:
 
 ```bash
 npm run dev
